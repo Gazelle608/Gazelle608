@@ -1,5 +1,5 @@
 <!--
-  🎨 CLEAN CYBERPUNK THEME
+  🎨 CLEAN CYBERPUNK THEME - FIXED LINKS
   Matched to Gazelle608's Profile Picture
 -->
 
@@ -50,18 +50,18 @@
 
 <h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
-  <!-- Fixed the stats links. They will now match your dark theme. -->
-<img src="https://streak-stats.demolab.com/?user=Gazelle608&theme=dark&hide_border=true&background=0D1117&ring=00FFFF&fire=8A2BE2&currStreakLabel=00FFFF&v=1" alt="GitHub Streak" width="48%" />
+  <!-- Using a more stable mirror for the stats cards -->
+  <img src="https://github-readme-stats.shion.dev/api?username=Gazelle608&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=c9d1d9&icon_color=8A2BE2&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Gazelle608&theme=dark&hide_border=true&background=0D1117&ring=00FFFF&fire=8A2BE2&currStreakLabel=00FFFF&v=1" alt="GitHub Streak" width="48%" />
 </div>
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Gazelle608&theme=dark&hide_border=true&background=0D1117&ring=00FFFF&fire=8A2BE2&currStreakLabel=00FFFF&v=1" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Gazelle608&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=c9d1d9&v=1" alt="Top Languages" width="50%" />
 </div>
 
 <br/>
 
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
-  <!-- Fixed these links: The images are now clickable badges that actually work -->
   <a href="mailto:pearsongazelle@gmail.com">
     <img src="https://img.shields.io/badge/Email-pearsongazelle%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFFF" alt="Email" />
   </a>
