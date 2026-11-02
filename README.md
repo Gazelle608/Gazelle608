@@ -54,7 +54,7 @@
 <img src="https://streak-stats.demolab.com/?user=Gazelle608&theme=dark&hide_border=true&background=0D1117&ring=00FFFF&fire=8A2BE2&currStreakLabel=00FFFF&v=1" alt="GitHub Streak" width="48%" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gazelle608&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=c9d1d9" alt="Top Languages" width="50%" />
+<img src="https://streak-stats.demolab.com/?user=Gazelle608&theme=dark&hide_border=true&background=0D1117&ring=00FFFF&fire=8A2BE2&currStreakLabel=00FFFF&v=1" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
