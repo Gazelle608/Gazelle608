@@ -51,8 +51,7 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
   <!-- Fixed the stats links. They will now match your dark theme. -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Gazelle608&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=c9d1d9&icon_color=8A2BE2" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gazelle608&theme=dark&hide_border=true&background=0D1117&ring=00FFFF&fire=8A2BE2&currStreakLabel=00FFFF" alt="GitHub Streak" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Gazelle608&theme=dark&hide_border=true&background=0D1117&ring=00FFFF&fire=8A2BE2&currStreakLabel=00FFFF&v=1" alt="GitHub Streak" width="48%" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gazelle608&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=c9d1d9" alt="Top Languages" width="50%" />
